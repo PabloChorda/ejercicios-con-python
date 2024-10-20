@@ -1,5 +1,5 @@
 """
-Escribe un programa que se encargue de comprobar si un número es o no primo.
+Escribe un programa que se encargue de comprobar si un número es primo o no.
 Hecho esto, imprime todos los números primos entre 1 y 100.
 """
 
