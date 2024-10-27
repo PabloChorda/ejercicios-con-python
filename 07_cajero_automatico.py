@@ -1,7 +1,7 @@
 """
 CAJERO AUTOMÁTICO SIMPLIFICADO
 Este programa permite al usuario realizar operaciones básicas de un cajero automático:
-consultar saldo, depositar dinero y retirar dinero.
+consultar saldo, depositar dinero y retirar-lo.
 """
 
 def mostrar_menu():
