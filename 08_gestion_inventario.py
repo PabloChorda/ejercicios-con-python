@@ -1,6 +1,7 @@
 """
 SISTEMA DE GESTIÓN DE INVENTARIO
-Este programa permite al usuario agregar, eliminar y consultar productos en el inventario de una tienda.
+Este programa permite al usuario agregar, eliminar y 
+consultar productos del inventario de una tienda.
 """
 
 def mostrar_menu():
