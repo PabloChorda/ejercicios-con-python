@@ -2,10 +2,10 @@
 /*
  * Crea un programa capaz de gestionar una pieza de Tetris.
  * - La pantalla de juego tiene 10 filas y 10 columnas representadas por símbolos 🔲
- * - La pieza de tetris a manejar será la siguiente (si quieres, puedes elegir otra):
+ * - La pieza de tetris a manejar será la siguiente: (si quieres, puedes elegir otra):
  *   🔳
  *   🔳🔳🔳
- * - La pieza aparecerá por primera vez en la parte superior izquierda de la pantalla de juego.
+ * - La pieza aparecerá por primera vez en la parte superior izquierda de la pantalla del juego.
  *   🔳🔲🔲🔲🔲🔲🔲🔲🔲🔲
  *   🔳🔳🔳🔲🔲🔲🔲🔲🔲🔲
  *   🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
